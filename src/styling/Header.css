@@ -9,6 +9,7 @@ nav {
     justify-content: space-between;
     align-items: center;
     padding: 7px;
+    z-index: 999;
 }
 
 nav .firstContent {
