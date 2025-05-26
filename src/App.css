@@ -1,0 +1,71 @@
+
+/*Content Section styling */
+.contentSection {
+    padding:10px 15rem 5rem 15rem;
+}
+
+/* eatMode container styling */
+.eatMode {
+    padding: 10px;
+}
+
+.mode {
+    padding-left: 10px;
+    border-radius: 15px;
+}
+
+/* foodieContainer styling */
+.foodieContainer {
+    padding: 10px;
+}
+
+.foodieCards {
+    padding: 2px;
+}
+
+.modeFoodie {
+    padding-left: 10px;
+    border-radius: 7px;
+}
+
+/* restroNearContainer styling */
+.restroNearContainer {
+    padding: 10px;
+}
+
+.modeRestro {
+    border-radius: 7px;
+    padding-bottom: 2px;
+}
+
+.modeRestro:hover {
+    cursor: pointer;
+}
+
+.cardContent {
+    padding: 0px 7px;
+}
+
+.cardContent .rating {
+    border-radius: 20px;
+    background-color: #43a047;
+}
+
+
+/* whatsMood container styling  */
+.whatsMood {
+    padding: 10px;
+}
+
+.cuisineCard {
+    border-radius: 10px;
+}
+
+/* popularLocations container styling */
+.popularLocations {
+    padding: 10px;
+}
+
+.restroCard {
+    border-radius: 10px;
+}
